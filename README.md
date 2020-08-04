@@ -8,3 +8,6 @@ This system also constantly monitors for motions in empty house, detecting any b
 The project was divided initially into two parts, the GSM module and Monitoring System. The Monitoring System Continiously monitors for anomaly through sensors. Upon detectiong an anomaly, it walls the GSM function to send appropriate response to authority.
 
 The GSM Exclue File has separate code files to test out each modules, While the GSM module tests and debugs the GSM module functionality. In the release folder, there is the final code (with versions) that was uploaded and tested to Arduino UNO. 
+
+## Why no version Control ?
+This project was developed as part of academics back in 2017, in that time i was not fimiliar with GitHub and version control System. But in the "release" the version control in maintained intrenally. I decided to make this public so i am just uploading the folder as it was. 
